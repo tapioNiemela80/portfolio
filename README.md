@@ -23,7 +23,6 @@ Tarkoituksena ei ole rakentaa täydellistä liiketoimintasovellusta, vaan demons
 - **Projektit**: koostuvat tehtävistä (taskeista)
 - **Tiimit**: sisältävät jäseniä ja tehtäviä
 - **Eventit**: kaikki mallit käyttävät domain eventtejä, joilla kommunikoidaan tilamuutoksista
-- **Inter-aggregate** (Axon): eri aggregaattien välinen viestintä toteutettu Sagan kautta
 
 ## ❗ Huomio
 
