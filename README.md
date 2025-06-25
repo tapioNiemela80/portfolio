@@ -19,7 +19,7 @@ Tarkoituksena ei ole rakentaa täydellistä liiketoimintasovellusta, vaan demons
 | [Axon + Saga](https://github.com/tapioNiemela80/demo-project-axon-es)            | Event Sourcing, CQRS | Kehittyneempi malli, inter-aggregate logiikka |
 
 ##  Liiketoimintamalli
-
+- Kaikki toteutukset noudattavat samaa liiketoimintamallia, jossa projektit koostuvat tehtävistä ja tiimit vastaavat niiden toteutuksesta.
 - **Projektit**: koostuvat tehtävistä (taskeista)
 - **Tiimit**: sisältävät jäseniä ja tehtäviä
 - **Eventit**: kaikki mallit käyttävät domain eventtejä, joilla kommunikoidaan tilamuutoksista
