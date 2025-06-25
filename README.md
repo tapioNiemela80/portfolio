@@ -19,8 +19,8 @@ Tarkoituksena ei ole rakentaa täydellistä liiketoimintasovellusta, vaan demons
 | [Axon + Saga](https://github.com/tapioNiemela80/demo-project-axon-es)            | Event Sourcing, CQRS | Kehittyneempi malli, inter-aggregate logiikka |
 
 ### Erityishuomio Spring Data JDBC ja Reactive stack toteutuksista
-- Reaktiivinen toteutus noudattaa clean architecture -mallia
-- Spring Data JDBC -pohjainen malli ei käytä clean architecture mallia, mutta olisi siirrettävissä ports & adapters -toteutukseen, jolloin sama puhdas malli kävisi molempiin toteutuksiin
+- Reaktiivinen toteutus noudattaa *clean architecture* -mallia
+- Spring Data JDBC -pohjainen malli ei noudata *clean architecture* mallia, mutta olisi siirrettävissä *ports & adapters* -toteutukseen, jolloin sama puhdas malli kävisi molempiin toteutuksiin
 
 ##  Liiketoimintamalli
 - Kaikki toteutukset noudattavat samaa liiketoimintamallia, jossa projektit koostuvat tehtävistä ja tiimit vastaavat niiden toteutuksesta.
