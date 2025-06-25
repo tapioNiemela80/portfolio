@@ -18,6 +18,9 @@ Tarkoituksena ei ole rakentaa täydellistä liiketoimintasovellusta, vaan demons
 | [Reactive stack](https://github.com/tapioNiemela80/demo-project-reactive)     | Reaktiivinen WebFlux | Asynkroninen, tapahtumapohjainen malli, clean architecture |
 | [Axon + Saga](https://github.com/tapioNiemela80/demo-project-axon-es)            | Event Sourcing, CQRS | Kehittyneempi malli, inter-aggregate logiikka |
 
+### Erityishuomio Spring Data JDBC ja Reactive stack toteutuksista
+- Pienillä muutoksilla sama "puhdas domain-malli" olisi käytettävissä molemmissa
+
 ##  Liiketoimintamalli
 - Kaikki toteutukset noudattavat samaa liiketoimintamallia, jossa projektit koostuvat tehtävistä ja tiimit vastaavat niiden toteutuksesta.
 - **Projektit**: koostuvat tehtävistä (taskeista)
