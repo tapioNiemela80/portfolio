@@ -14,7 +14,7 @@ Tarkoituksena ei ole rakentaa täydellistä liiketoimintasovellusta, vaan demons
 
 | Toteutus                    | Stack | Kuvaus |
 |----------------------------|-------|--------|
-| [Spring Data JDBC](https://github.com/tapioNiemela80/demo-project-spring-data-jdbc) | Imperatiivinen | Kevyt ja selkeä toteutus JDBC:n päälle |
+| [Spring Data JDBC](https://github.com/tapioNiemela80/demo-project-spring-data-jdbc) | Imperatiivinen | Kevyt ja selkeä toteutus Spring Data JDBC:n päälle |
 | [Reactive stack](https://github.com/tapioNiemela80/demo-project-reactive)     | Reaktiivinen WebFlux | Asynkroninen, tapahtumapohjainen malli, clean architecture |
 | [Axon + Saga](https://github.com/tapioNiemela80/demo-project-axon-es)            | Event Sourcing, CQRS | Kehittyneempi malli, Axon |
 
